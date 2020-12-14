@@ -27,7 +27,7 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 body {
@@ -101,7 +101,9 @@ p {
   padding: 3% 2%;
 }
 
-
+.fab{
+  padding: 1rem 0.5rem;
+}
 
 #testimonials {
   padding: 7% 15%;
@@ -126,3 +128,26 @@ p {
   padding: 100px;
   text-align: center;
 }
+
+#cta{
+
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 35%;
+  color: #fff;
+}
+
+#footer{
+  text-align: center;
+
+}
+
+@media (max-width:1028px) {
+  .iphone6dog{
+    width: 80%;
+    position: static;
+    transform: rotate(0);
+    text-align: center;
+
+
+  }
