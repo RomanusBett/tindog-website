@@ -101,8 +101,8 @@ p {
   padding: 3% 2%;
 }
 
-.fab{
-  padding: 1rem 0.5rem;
+.icon-img{
+  padding: 1.5rem 0.5rem;
 }
 
 #testimonials {
@@ -139,6 +139,8 @@ p {
 
 #footer{
   text-align: center;
+  padding: 4rem 0.5rem;
+
 
 }
 
