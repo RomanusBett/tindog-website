@@ -3,7 +3,7 @@
 }
 
 .container-fluid {
-  padding: 3% 25%;
+  padding: 3% 25% 6%;
 }
 
 #title {
@@ -61,11 +61,14 @@ p {
 }
 
 .iphone6dog {
-  width: 60%;
+  width: 17%;
   transform: rotate(25deg);
+   position: absolute;
+   right: 30%;
 }
 
 .feature-box {
+  background-color: #fff;
   text-align: center;
   padding: 5%;
 }
@@ -98,6 +101,8 @@ p {
   padding: 3% 2%;
 }
 
+
+
 #testimonials {
   padding: 7% 15%;
   text-align: center;
@@ -111,7 +116,9 @@ p {
   padding-bottom: 3%;
 }
 
-#features {
+#features{
+  position: relative;
+  background-color: #fff;
   padding: 7% 15%;
 }
 
